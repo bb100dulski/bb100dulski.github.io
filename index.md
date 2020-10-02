@@ -4,6 +4,8 @@ My name is Dobromil Stodulski and I am currently a third year student studying B
 
 You can view all of my projects at [my GitHub page](https://github.com/bb100dulski).
 
+You can view all of my forensic reports [at my Dropbox folder](https://www.dropbox.com/home/Forensics%20Reports).
+
 You can also download my up-to-date CV [here](https://docs.google.com/document/d/1A-RUhy55YYFaroCGaYwTzKxofQ0-sB5c3q2STW5I5PY/edit?usp=sharing).
 
 ## Current Projects
