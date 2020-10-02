@@ -1,37 +1,22 @@
-## Welcome to GitHub Pages
+# Introduction
 
-You can use the [editor on GitHub](https://github.com/bb100dulski/bb100dulski.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+My name is Dobromil Stodulski and I am currently a third year student studying BSc (Honours) Applied Computing specialsing in Computer Forensics and Security at [WIT](https://www.wit.ie/) (Waterford Institiute of Technology).
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+You can view all of my projects at [my GitHub page](https://github.com/bb100dulski).
 
-### Markdown
+You can also download my up-to-date CV [here](https://docs.google.com/document/d/1A-RUhy55YYFaroCGaYwTzKxofQ0-sB5c3q2STW5I5PY/edit?usp=sharing).
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## Current Projects
 
-```markdown
-Syntax highlighted code block
+- [WITT](https://github.com/bb100dulski/timeTablePlusPlus-Android-)
+- [Music Production](https://www.youtube.com/channel/UC85Ql9OO0jSD5fIROzIVfQw)
 
-# Header 1
-## Header 2
-### Header 3
+## Additional Contact Information
 
-- Bulleted
-- List
+You can also find me at the following places :
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/bb100dulski/bb100dulski.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+1. [LinkedIn](https://www.linkedin.com/in/dobromi%C5%82-stodulski-15349b151/)
+2. [Gmail](bb100dulski@gmail.com)
+3. [Phone](353866638396)
+4. [Twitter](https://twitter.com/bb100dulski1)
+5. [YouTube](https://www.youtube.com/channel/UCcqVpaDp4ueKmOSN-6-Ws_g?view_as=subscriber)
