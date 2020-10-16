@@ -2,7 +2,7 @@
 
 My name is Dobromil Stodulski and I am currently a third year student studying BSc (Honours) Applied Computing specialsing in Computer Forensics and Security at [WIT](https://www.wit.ie/) (Waterford Institiute of Technology).
 
-You can view all of my projects at [my GitHub page](https://github.com/bb100dulski).
+You can view all of my projects at [my GitHub page](https://github.com/dobromilstodulski).
 
 You can view all of my forensic reports [at my Dropbox folder](https://www.dropbox.com/home/Forensics%20Reports).
 
