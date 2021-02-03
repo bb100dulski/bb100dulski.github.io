@@ -18,4 +18,4 @@ You can also download my up-to-date CV [here](https://docs.google.com/document/d
 
 You can also find me at the following places :
 
-[LinkedIn](https://www.linkedin.com/in/dobromi%C5%82-stodulski-15349b151/) | [Gmail](bb100dulski@gmail.com) | [Phone](353866638396) | [Twitter](https://twitter.com/bb100dulski1) | [YouTube](https://www.youtube.com/channel/UCcqVpaDp4ueKmOSN-6-Ws_g?view_as=subscriber)
+[LinkedIn](https://www.linkedin.com/in/dobromi%C5%82-stodulski-15349b151/) | [Gmail](bb100dulski@gmail.com) | [Phone](353866638396) | [Twitter](https://twitter.com/bb100dulski1) | [YouTube](https://www.youtube.com/channel/UCcqVpaDp4ueKmOSN-6-Ws_g?view_as=subscriber) | [Facebook](https://www.facebook.com/bb100dulski/grid) | [Instagram](https://www.instagram.com/bb100dulski/)
