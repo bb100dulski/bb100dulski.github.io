@@ -12,6 +12,7 @@ You can also download my up-to-date CV [here](https://docs.google.com/document/d
 
 - [WITT](https://github.com/bb100dulski/timeTablePlusPlus-Android-)
 - [Music Production](https://www.youtube.com/channel/UC85Ql9OO0jSD5fIROzIVfQw)
+![here](https://www.google.com/url?sa=i&url=https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FImage&psig=AOvVaw1sokK_m6VHsorS0ivrw9b7&ust=1612469663514000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCIjih9_Dzu4CFQAAAAAdAAAAABAD)
 
 ## Additional Contact Information
 
