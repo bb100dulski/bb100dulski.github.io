@@ -10,9 +10,9 @@ You can also download my up-to-date CV [here](https://docs.google.com/document/d
 
 ## Current Projects
 
-- [WITT](https://github.com/bb100dulski/timeTablePlusPlus-Android-)
-- [Music Production](https://www.youtube.com/channel/UC85Ql9OO0jSD5fIROzIVfQw)
-- ![here](https://www.google.com/url?sa=i&url=https%3A%2F%2Fcommons.wikimedia.org%2Fwiki%2FFile%3AReddot-small.svg&psig=AOvVaw2lBP9ki63kFPyjFQ5v3DGV&ust=1612469750063000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCNDHiojEzu4CFQAAAAAdAAAAABAI)
+- [CommandoCraft (A Minecraft Server)](https://commandocraft.enjin.com/)
+- [Music Production (BB)]()
+- [Music Production (Dobby)](https://www.youtube.com/channel/UC85Ql9OO0jSD5fIROzIVfQw)
 
 ## Additional Contact Information
 
